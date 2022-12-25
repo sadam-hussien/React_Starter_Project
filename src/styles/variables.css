@@ -1,0 +1,29 @@
+:root {
+  --primary: #0077fc;
+  --primary-rgb: 0 119 252;
+  --secondary: #00ee4a;
+  --other: #ff9300;
+  --dark: #000028;
+  --gray: #6b6a72;
+  --light-bg: #f8f8f8;
+  --shadow-el: 0 0 15px 0 rgb(34 41 47 / 5%);
+  --border: rgba(0 0 0 / 0.1);
+  --danger: #ff725e;
+  --danger-rgb: 255 114 94;
+
+  --primary-en: "Lato", sans-serif;
+  --primary-ar: "Cairo", sans-serif;
+
+  --logo-font: "Rubik Marker Hatch", cursive;
+
+  --font-size-sm: 0.9rem;
+
+  --space-sm: 10px;
+  --space-md: 20px;
+  --space-lg: 40px;
+  --border-radius-sm: 5px;
+
+  --sidebar-width: 260px;
+  --sidebar-width-sm: 70px;
+  --header-height: 58px;
+}
